@@ -1,3 +1,3 @@
 # aveds_test
 
-A new Flutter project.
+Тестовое приложение авторизация
